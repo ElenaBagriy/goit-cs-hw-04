@@ -1,0 +1,3 @@
+Python supports multiprocessing for parallel processing.
+Multiprocessing can use multiple CPU cores.
+Python programs can handle errors.

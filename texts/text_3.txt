@@ -1,0 +1,3 @@
+File processing is a common task in Python.
+Threading and multiprocessing are useful techniques.
+Error handling is important when reading files.
